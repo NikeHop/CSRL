@@ -1,0 +1,21 @@
+# Toy environment
+src/toy/log
+src/toy/env
+
+# Wordcraft
+src/wordcraft/logs
+src/wordcraft/scripts/logs
+src/wordcraft/kgs
+src/wordcraft/visualisations
+src/wordcraft/env
+
+# Textworld Commonsense
+src/textworld/logs
+src/textworld/results
+src/textworld/embeddings
+src/textworld/env
+src/textworld/kgs/*pkl
+
+# Project files
+**/__pycache__
+.vscode

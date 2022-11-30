@@ -1,0 +1,702 @@
+{
+ "shirt": {
+     "locations": ["wardrobe"],
+     "type": "o",
+     "category": "object",
+     "name": "shirt",
+     "entity": "shirt"
+ },
+ "sweater": {
+    "locations": ["wardrobe"],
+    "type": "o",
+    "category": "object",
+    "name": "sweater",
+    "entity": "sweater"
+ },
+ "sock": {
+    "locations": ["chest of drawers"],
+    "type": "o",
+    "category": "object",
+    "name": "sock",
+    "entity": "sock"
+ },
+ "underpants": {
+    "locations": ["chest of drawers"],
+    "type": "o",
+    "category": "object",
+    "name": "underpants",
+    "entity": "underpants"
+ },
+ "shoe": {
+    "locations": ["shoe cabinet"],
+    "type": "o",
+    "category": "object",
+    "name": "shoe",
+    "entity": "shoe"
+ },
+ "jacket": {
+    "locations": ["wardrobe","coat hanger"],
+    "type": "o",
+    "category": "object",
+    "name": "jacket",
+    "entity": "jacket"
+ },
+ "jeans": {
+    "locations": ["wardrobe"],
+    "type": "o",
+    "category": "object",
+    "name": "jeans",
+    "entity": "jeans"
+ },
+ "hat": {
+    "locations": ["wardrobe","coat hanger"],
+    "type": "o",
+    "category": "object",
+    "name": "hat",
+    "entity": "hat"
+ },
+ "scarf": {
+    "locations": ["wardrobe","coat hanger"],
+    "type": "o",
+    "category": "object",
+    "name": "scarf",
+    "entity": "scarf"
+ },
+ "trousers": {
+    "locations": ["wardrobe"],
+    "type": "o",
+    "category": "object",
+    "name": "trousers",
+    "entity": "trousers"
+ },
+ "T-shirt": {
+    "locations": ["wardrobe"],
+    "type": "o",
+    "category": "object",
+    "name": "T-shirt",
+    "entity": "T-shirt"
+ },
+ "coat": {
+    "locations": ["coat hanger"],
+    "type": "o",
+    "category": "object",
+    "name": "coat",
+    "entity": "coat"
+ },
+ "skirt": {
+    "locations": ["wardrobe"],
+    "type": "o",
+    "category": "object",
+    "name": "skirt",
+    "entity": "skirt"
+ },
+ "dress": {
+    "locations": ["wardrobe"],
+    "type": "o",
+    "category": "object",
+    "name": "dress",
+    "entity": "dress"
+ },
+ "shorts": {
+    "locations": ["wardrobe"],
+    "type": "o",
+    "category": "object",
+    "name": "shorts",
+    "entity": "shorts"
+ },
+ "blouse": {
+    "locations": ["wardrobe","chest of drawers"],
+    "type": "o",
+    "category": "object",
+    "name": "blouse",
+    "entity": "blouse"
+ },
+ "belt": {
+    "locations": ["wardrobe", "chest of drawers"],
+    "type": "o",
+    "category": "object",
+    "name": "belt",
+    "entity": "belt"
+ },
+ "tie": {
+    "locations": ["wardrobe"],
+    "type": "o",
+    "category": "object",
+    "name": "tie",
+    "entity": "tie"
+ },
+ "bra": {
+    "locations": ["chest of drawers"],
+    "type": "o",
+    "category": "object",
+    "name": "bra",
+    "entity": "bra"
+ },
+ "swimsuit": {
+    "locations": ["chest of drawers"],
+    "type": "o",
+    "category": "object",
+    "name": "swimsuit",
+    "entity": "swimsuit"
+ },
+ "meat": {
+    "locations": ["fridge"],
+    "type": "o",
+    "category": "object",
+    "name": "meat",
+    "entity": "meat"
+ },
+ "yoghurt": {
+    "locations": ["fridge"],
+    "type": "o",
+    "category": "object",
+    "name": "yoghurt",
+    "entity": "yoghurt"
+ },
+ "milk": {
+    "locations": ["fridge"],
+    "type": "o",
+    "category": "object",
+    "name": "milk",
+    "entity": "milk"
+ },
+ "salad": {
+    "locations": ["fridge"],
+    "type": "o",
+    "category": "object",
+    "name": "salad",
+    "entity": "salad"
+ },
+ "tomatoe": {
+    "locations": ["fridge"],
+    "type": "o",
+    "category": "object",
+    "name": "tomatoe",
+    "entity": "tomatoe"
+ },
+ "strawberry": {
+    "locations": ["fruit basket"],
+    "type": "o",
+    "category": "object",
+    "name": "strawberry",
+    "entity": "strawberry"
+ },
+ "blueberry": {
+    "locations": ["fruit basket"],
+    "type": "o",
+    "category": "object",
+    "name": "blueberry",
+    "entity": "blueberry"
+ },
+ "banana": {
+    "locations": ["fruit basket"],
+    "type": "o",
+    "category": "object",
+    "name": "banana",
+    "entity": "banana"
+ },
+ "broccoli": {
+    "locations": ["fridge"],
+    "type": "o",
+    "category": "object",
+    "name": "broccoli",
+    "entity": "broccoli"
+ },
+ "bacon": {
+    "locations": ["fridge"],
+    "type": "o",
+    "category": "object",
+    "name": "bacon",
+    "entity": "bacon"
+ },
+ "rice": {
+    "locations": ["kitchen cupboard", "shelf"],
+    "type": "o",
+    "category": "object",
+    "name": "rice",
+    "entity": "rice"
+ },
+ "carrot": {
+    "locations": ["fridge","fruit basket"],
+    "type": "o",
+    "category": "object",
+    "name": "carrot",
+    "entity": "carrot"
+ },
+ "corn": {
+    "locations": ["kitchen cupboard","shelf"],
+    "type": "o",
+    "category": "object",
+    "name": "corn",
+    "entity": "corn"
+ },
+ "chocolate": {
+    "locations": ["kitchen cupboard","shelf"],
+    "type": "o",
+    "category": "object",
+    "name": "chocolate",
+    "entity": "chocolate"
+ },
+ "chili": {
+    "locations": ["kitchen cupboard","shelf"],
+    "type": "o",
+    "category": "object",
+    "name": "chili",
+    "entity": "chili"
+ },
+ "apple": {
+    "locations": ["fruit basket"],
+    "type": "o",
+    "category": "object",
+    "name": "apple",
+    "entity": "apple"
+ },
+ "cucumber": {
+    "locations": ["fruit basket"],
+    "type": "o",
+    "category": "object",
+    "name": "cucumber",
+    "entity": "cucumber"
+ },
+ "beans": {
+    "locations": ["kitchen cupboard","shelf"],
+    "type": "o",
+    "category": "object",
+    "name": "beans",
+    "entity": "beans"
+ },
+ "jam": {
+    "locations": ["fridge"],
+    "type": "o",
+    "category": "object",
+    "name": "jam",
+    "entity": "jam"
+ },
+ "noodles": {
+    "locations": ["kitchen cupboard","shelf"],
+    "type": "o",
+    "category": "object",
+    "name": "noodles",
+    "entity": "noodles"
+ },
+ "onion": {
+    "locations": ["kitchen cupboard","shelf"],
+    "type": "o",
+    "category": "object",
+    "name": "onion",
+    "entity": "onion"
+ },
+ "olive": {
+    "locations": ["fridge"],
+    "type": "o",
+    "category": "object",
+    "name": "olive",
+    "entity": "olive"
+ },
+ "raisin": {
+    "locations": ["kitchen cupboard","shelf"],
+    "type": "o",
+    "category": "object",
+    "name": "raisin",
+    "entity": "raisin"
+ },
+ "salmon": {
+    "locations": ["fridge"],
+    "type": "o",
+    "category": "object",
+    "name": "salmon",
+    "entity": "salmon"
+ },
+ "spaghetti": {
+    "locations": ["kitchen cupboard","shelf"],
+    "type": "o",
+    "category": "object",
+    "name": "spaghetti",
+    "entity": "spaghetti"
+ },
+ "spinach": {
+    "locations": ["fridge"],
+    "type": "o",
+    "category": "object",
+    "name": "spinach",
+    "entity": "spinach"
+ },
+ "syrup": {
+    "locations": ["kitchen cupboard","shelf"],
+    "type": "o",
+    "category": "object",
+    "name": "syrup",
+    "entity": "syrup"
+ },
+ "tofu": {
+    "locations": ["fridge"],
+    "type": "o",
+    "category": "object",
+    "name": "tofu",
+    "entity": "tofu"
+ },
+ "tuna": {
+    "locations": ["fridge"],
+    "type": "o",
+    "category": "object",
+    "name": "tuna",
+    "entity": "tuna"
+ },
+ "vinegar": {
+    "locations": ["kitchen cupboard","shelf"],
+    "type": "o",
+    "category": "object",
+    "name": "vinegar",
+    "entity": "vinegar"
+ },
+ "watermelon": {
+    "locations": ["fruit basket"],
+    "type": "o",
+    "category": "object",
+    "name": "watermelon",
+    "entity": "watermelon"
+ },
+ "sugar": {
+    "locations": ["kitchen cupboard","shelf"],
+    "type": "o",
+    "category": "object",
+    "name": "sugar",
+    "entity": "sugar"
+ },
+ "salt": {
+    "locations": ["kitchen cupboard","shelf"],
+    "type": "o",
+    "category": "object",
+    "name": "salt",
+    "entity": "salt"
+ },
+ "pepper": {
+    "locations": ["kitchen cupboard","shelf"],
+    "type": "o",
+    "category": "object",
+    "name": "pepper",
+    "entity": "pepper"
+ },
+ "bread": {
+    "locations": ["kitchen cupboard","shelf"],
+    "type": "o",
+    "category": "object",
+    "name": "bread",
+    "entity": "bread"
+ },
+ "orange": {
+    "locations": ["fruit basket"],
+    "type": "o",
+    "category": "object",
+    "name": "orange",
+    "entity": "orange"
+ },
+ "mustard": {
+    "locations": ["fridge"],
+    "type": "o",
+    "category": "object",
+    "name": "mustard",
+    "entity": "mustard"
+ },
+ "lemonade": {
+    "locations": ["fridge"],
+    "type": "o",
+    "category": "object",
+    "name": "lemonade",
+    "entity": "lemonade"
+ },
+ "water": {
+    "locations": ["shelf"],
+    "type": "o",
+    "category": "object",
+    "name": "water",
+    "entity": "water"
+ },
+ "cheese": {
+    "locations": ["fridge"],
+    "type": "o",
+    "category": "object",
+    "name": "cheese",
+    "entity": "cheese"
+ },
+ "garlic": {
+    "locations": ["shelf","kitchen cupboard","fridge"],
+    "type": "o",
+    "category": "object",
+    "name": "garlic",
+    "entity": "garlic"
+ },
+ "egg": {
+    "locations": ["fridge"],
+    "type": "o",
+    "category": "object",
+    "name": "egg",
+    "entity": "egg"
+ },
+ "cherry": {
+    "locations": ["fruit basket"],
+    "type": "o",
+    "category": "object",
+    "name": "cherry",
+    "entity": "cherry"
+ },
+ "cinnamon": {
+    "locations": ["shelf","kitchen cupboard"],
+    "type": "o",
+    "category": "object",
+    "name": "cinnamon",
+    "entity": "cinnamon"
+ },
+ "butter": {
+    "locations": ["fridge"],
+    "type": "o",
+    "category": "object",
+    "name": "butter",
+    "entity": "butter"
+ },
+ "avocado": {
+    "locations": ["fruit basket"],
+    "type": "o",
+    "category": "object",
+    "name": "avocado",
+    "entity": "avocado"
+ },
+ "spoon": {
+    "locations": ["cutlery drawer"],
+    "type": "o",
+    "category": "object",
+    "name": "spoon",
+    "entity": "spoon"
+ },
+ "fork": {
+    "locations": ["cutlery drawer"],
+    "type": "o",
+    "category": "object",
+    "name": "fork",
+    "entity": "fork"
+ },
+ "knife": {
+    "locations": ["cutlery drawer"],
+    "type": "o",
+    "category": "object",
+    "name": "knife",
+    "entity": "knife"
+ },
+ "plate": {
+    "locations": ["kitchen cupboard"],
+    "type": "o",
+    "category": "object",
+    "name": "plate",
+    "entity": "plate"
+ },
+ "cup": {
+    "locations": ["kitchen cupboard"],
+    "type": "o",
+    "category": "object",
+    "name": "cup",
+    "entity": "cup"
+ },
+ "pot": {
+    "locations": ["kitchen cupboard"],
+    "type": "o",
+    "category": "object",
+    "name": "pot",
+    "entity": "pot"
+ },
+ "kettle": {
+    "locations": ["dining table"],
+    "type": "o",
+    "category": "object",
+    "name": "kettle",
+    "entity": "kettle"
+ },
+ "pan": {
+    "locations": ["kitchen cupboard"],
+    "type": "o",
+    "category": "object",
+    "name": "pan",
+    "entity": "pan"
+ },
+ "blender": {
+    "locations": ["kitchen cupboard"],
+    "type": "o",
+    "category": "object",
+    "name": "blender",
+    "entity": "blender"
+ },
+ "mug": {
+    "locations": ["kitchen cupboard"],
+    "type": "o",
+    "category": "object",
+    "name": "mug",
+    "entity": "mug"
+ },
+ "bowl": {
+    "locations": ["kitchen cupboard"],
+    "type": "o",
+    "category": "object",
+    "name": "bowl",
+    "entity": "bowl"
+ },
+ "grater": {
+    "locations": ["kitchen cupboard"],
+    "type": "o",
+    "category": "object",
+    "name": "grater",
+    "entity": "grater"
+ },
+ "spatula": {
+    "locations": ["cutlery drawer"],
+    "type": "o",
+    "category": "object",
+    "name": "spatula",
+    "entity": "spatula"
+ },
+ "peeler": {
+    "locations": ["cutlery drawer"],
+    "type": "o",
+    "category": "object",
+    "name": "peeler",
+    "entity": "peeler"
+ },
+ "whisk": {
+    "locations": ["cutlery drawer"],
+    "type": "o",
+    "category": "object",
+    "name": "whisk",
+    "entity": "whisk"
+ },
+ "tray": {
+    "locations": ["cutlery drawer"],
+    "type": "o",
+    "category": "object",
+    "name": "tray",
+    "entity": "tray"
+ },
+ "cutting board": {
+    "locations": ["shelf"],
+    "type": "o",
+    "category": "object",
+    "name": "cutting board",
+    "entity": "cutting board"
+ },
+ "corkscrew": {
+    "locations": ["cutlery drawer"],
+    "type": "o",
+    "category": "object",
+    "name": "corkscrew",
+    "entity": "corkscrew"
+ },
+ "mits": {
+    "locations": ["cutlery drawer"],
+    "type": "o",
+    "category": "object",
+    "name": "mits",
+    "entity": "mits"
+ },
+ "frying pan": {
+    "locations": ["kitchen cupboard"],
+    "type": "o",
+    "category": "object",
+    "name": "frying pan",
+    "entity": "frying pan"
+ },
+ "ladle": {
+    "locations": ["cutlery drawer"],
+    "type": "o",
+    "category": "object",
+    "name": "ladle",
+    "entity": "ladle"
+ },
+ "picture": {
+    "locations": ["wall"],
+    "type": "o",
+    "category": "object",
+    "name": "picture",
+    "entity": "picture"
+ },
+ "book": {
+    "locations": ["bookshelf"],
+    "type": "o",
+    "category": "object",
+    "name": "book",
+    "entity": "book"
+ },
+ "computer": {
+    "locations": ["table"],
+    "type": "o",
+    "category": "object",
+    "name": "computer",
+    "entity": "computer"
+ },
+ "flower": {
+    "locations": ["floor"],
+    "type": "o",
+    "category": "object",
+    "name": "flower",
+    "entity": "flower"
+ },
+ "table lamp": {
+    "locations": ["table"],
+    "type": "o",
+    "category": "object",
+    "name": "table lamp",
+    "entity": "table lamp"
+ },
+ "candle": {
+    "locations": ["table"],
+    "type": "o",
+    "category": "object",
+    "name": "candle",
+    "entity": "candle"
+ },
+ "television": {
+    "locations": ["TV stand"],
+    "type": "o",
+    "category": "object",
+    "name": "television",
+    "entity": "television"
+ },
+ "vase": {
+    "locations": ["table"],
+    "type": "o",
+    "category": "object",
+    "name": "vase",
+    "entity": "vase"
+ },
+ "floor lamp": {
+    "locations": ["floor"],
+    "type": "o",
+    "category": "object",
+    "name": "floor lamp",
+    "entity": "floor lamp"
+ },
+ "carpet": {
+    "locations": ["floor"],
+    "type": "o",
+    "category": "object",
+    "name": "carpet",
+    "entity": "carpet"
+ },
+ "clock": {
+    "locations": ["wall"],
+    "type": "o",
+    "category": "object",
+    "name": "clock",
+    "entity": "clock"
+ },
+ "pillow": {
+    "locations": ["sofa"],
+    "type": "o",
+    "category": "object",
+    "name": "pillow",
+    "entity": "pillow"
+ },
+ "speakers": {
+    "locations": ["TV stand"],
+    "type": "o",
+    "category": "object",
+    "name": "speakers",
+    "entity": "speakers"
+ }
+}

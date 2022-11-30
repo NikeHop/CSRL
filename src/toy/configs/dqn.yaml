@@ -1,0 +1,27 @@
+---
+seed: 2022
+experiment_name: 'dqn' 
+visualize: True
+
+training_parameters:
+  n_samples: 5000
+  evaluation_frequency: 100
+  evaluation_samples: 20 # Times the Batch-Size
+  lr: 0.001
+  epsilon: 1
+  epsilon_decay: 0.9999
+  batch_size: 32
+  learning_alg: 'residual'
+  true_abstraction: False # Which abstract layer to use as input, if none set to False
+  base: False # If true only use the base state as input
+  
+environment:
+  n_actions: 5
+  branching_per_layer: [7,10,8,8]
+  noise_prob: 0
+  fixed_layer: 2 # Layer at which the correct action is determined
+
+network:
+  embedding_dim: 300
+  hidden_dim: [256,128,64]
+  n_layers: 3

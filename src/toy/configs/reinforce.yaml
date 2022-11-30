@@ -1,0 +1,30 @@
+---
+seed: 2022
+experiment_name: 'reinforce'
+visualize: False
+
+training_parameters:
+  n_samples: 2000
+  evaluation_frequency: 100
+  evaluation_samples: 20 # Times the Batch-Size
+  lr: 0.0001
+  entropy: 1
+  baseline: 1
+  batch_size: 32
+  learning_alg: 'residual'
+  true_abstraction: 2 # Which abstract layer to use as input, if none set to False
+  base: False # If true only uses the base state as input
+  
+environment:
+  n_actions: 5
+  branching_per_layer: [7,10,8,1]
+  noise_prob: 0
+  fixed_layer: 2 # Layer at which the correct action is determined
+
+network:
+  embedding_dim: 300
+  hidden_dim: [256,128,64]
+  n_layers: 3
+
+
+    
