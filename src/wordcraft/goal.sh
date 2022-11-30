@@ -91,4 +91,3 @@ do
     fi
 done
 
-deactivate
